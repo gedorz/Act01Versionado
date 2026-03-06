@@ -1,0 +1,5 @@
+Prueba de que gitIgnora 
+los archivos .log
+los pone en color gris
+
+gh pr create --base main --head feature/gitignore --title "Adicionar .gitignore" --body "Añade reglas para .log y carpeta pycache"

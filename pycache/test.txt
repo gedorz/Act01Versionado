@@ -1,0 +1,4 @@
+Evidencia que git Ingnore 
+descarta cuarquier archivo en pycache 
+pone la carpeta y su contenido 
+en color gris

@@ -1,0 +1,25 @@
+*   875ca54 fix: Se resuelve el conflicto uniendo las todas las funciones en el archivo suma resta e info
+|\  
+| *   f803017 Merge pull request #3 from gedorz/feature/suma
+| |\  
+| | * 61b71db se añade suma en operations.py
+| |/  
+* / 7127c84 agrega resta a operations.py
+|/  
+*   eeddced Merge pull request #2 from gedorz/feature/evidencias-config-main
+|\  
+| * 3b34d21 Archivos evidencia: para log md y carpeta pycache mas git status
+| *   8dbca5c Merge remote-tracking branch 'origin/main' into feature/evidencias-config-main
+| |\  
+| |/  
+|/|   
+* |   e247e6a Merge pull request #1 from gedorz/feature/gitIgnore
+|\ \  
+| * | 3fc13a0 Add gitIgnore
+|/ /  
+| * c3ec029 Pruebas para git ignore
+| * 4bc1e60 Aclaracion del texto de evidecias
+| * 7b6e1f9 Adición de carpeta de Evidencias mediante branch
+|/  
+* 04aa9be Commit Inicial local
+* cfa07cd Initial commit

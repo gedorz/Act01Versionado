@@ -10,7 +10,7 @@ on:
 
 jobs:
     imprimir:
-      runs-on: ubuntu-lastest
+      runs-on: ubuntu-latest
       steps:
         - name: Mostrar nombre completo
           run: echo "Su nombre completo es ${{inputs.nombre_apellidos }} "

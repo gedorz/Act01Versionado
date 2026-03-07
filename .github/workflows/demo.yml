@@ -1,0 +1,17 @@
+name: Demo CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      nombre_apellidos:
+        description: "Tu nombre y apellido"
+        required: true
+        type: string
+
+jobs:
+    imprimir:
+      runs-on: ubuntu-lastest
+      steps:
+        - name: Mostrar nombre completo
+          run: echo "Su nombre completo es ${{inputs.nombre_apellidos }} "
+

@@ -1,0 +1,35 @@
+imprimir	Set up job	﻿2026-03-07T23:34:46.7641416Z Current runner version: '2.332.0'
+imprimir	Set up job	2026-03-07T23:34:46.7676522Z ##[group]Runner Image Provisioner
+imprimir	Set up job	2026-03-07T23:34:46.7678089Z Hosted Compute Agent
+imprimir	Set up job	2026-03-07T23:34:46.7679061Z Version: 20260213.493
+imprimir	Set up job	2026-03-07T23:34:46.7680044Z Commit: 5c115507f6dd24b8de37d8bbe0bb4509d0cc0fa3
+imprimir	Set up job	2026-03-07T23:34:46.7681417Z Build Date: 2026-02-13T00:28:41Z
+imprimir	Set up job	2026-03-07T23:34:46.7682592Z Worker ID: {2a2311d7-d3b9-42ee-a0a4-09f1c54e2e82}
+imprimir	Set up job	2026-03-07T23:34:46.7683734Z Azure Region: eastus2
+imprimir	Set up job	2026-03-07T23:34:46.7684800Z ##[endgroup]
+imprimir	Set up job	2026-03-07T23:34:46.7687001Z ##[group]Operating System
+imprimir	Set up job	2026-03-07T23:34:46.7688287Z Ubuntu
+imprimir	Set up job	2026-03-07T23:34:46.7689171Z 24.04.3
+imprimir	Set up job	2026-03-07T23:34:46.7690026Z LTS
+imprimir	Set up job	2026-03-07T23:34:46.7690779Z ##[endgroup]
+imprimir	Set up job	2026-03-07T23:34:46.7691750Z ##[group]Runner Image
+imprimir	Set up job	2026-03-07T23:34:46.7692772Z Image: ubuntu-24.04
+imprimir	Set up job	2026-03-07T23:34:46.7693576Z Version: 20260302.42.1
+imprimir	Set up job	2026-03-07T23:34:46.7695353Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260302.42/images/ubuntu/Ubuntu2404-Readme.md
+imprimir	Set up job	2026-03-07T23:34:46.7698356Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260302.42
+imprimir	Set up job	2026-03-07T23:34:46.7700115Z ##[endgroup]
+imprimir	Set up job	2026-03-07T23:34:46.7702001Z ##[group]GITHUB_TOKEN Permissions
+imprimir	Set up job	2026-03-07T23:34:46.7704738Z Contents: read
+imprimir	Set up job	2026-03-07T23:34:46.7705857Z Metadata: read
+imprimir	Set up job	2026-03-07T23:34:46.7706734Z Packages: read
+imprimir	Set up job	2026-03-07T23:34:46.7707602Z ##[endgroup]
+imprimir	Set up job	2026-03-07T23:34:46.7710686Z Secret source: Actions
+imprimir	Set up job	2026-03-07T23:34:46.7712367Z Prepare workflow directory
+imprimir	Set up job	2026-03-07T23:34:46.8165910Z Prepare all required actions
+imprimir	Set up job	2026-03-07T23:34:46.8297901Z Complete job name: imprimir
+imprimir	Mostrar nombre completo	﻿2026-03-07T23:34:46.9169997Z ##[group]Run echo "Su nombre completo es German Dario Realpe Zambrano "
+imprimir	Mostrar nombre completo	2026-03-07T23:34:46.9171225Z [36;1mecho "Su nombre completo es German Dario Realpe Zambrano "[0m
+imprimir	Mostrar nombre completo	2026-03-07T23:34:46.9842697Z shell: /usr/bin/bash -e {0}
+imprimir	Mostrar nombre completo	2026-03-07T23:34:46.9844276Z ##[endgroup]
+imprimir	Mostrar nombre completo	2026-03-07T23:34:47.0050645Z Su nombre completo es German Dario Realpe Zambrano 
+imprimir	Complete job	﻿2026-03-07T23:34:47.0166919Z Cleaning up orphan processes
